@@ -3,6 +3,7 @@
 http://gyohee.azurewebsites.net
 
 [프로젝트 1] 주제: Spring 애견 커뮤니티
+<br/>
 인원: 4명 
 본인의 역할: 검색 엔진 서비스 및 게시판 구현, 프로젝트 PM 
 사용 기술: Spring Framework, Mybatis, Maven 
